@@ -11,6 +11,9 @@
     <OutputPath>.</OutputPath>
     <Name>svg_grayscaler</Name>
     <RootNamespace>svg_grayscaler</RootNamespace>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <CommandLineArguments>C:\Users\Damn\source\repos\svg_grayscaler\ExampleSVGs\slack_icon.svg C:\Users\Damn\source\repos\svg_grayscaler\test_output.svg</CommandLineArguments>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
